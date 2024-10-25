@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "Learn Python For Free",
+  "short_name": "Learn Python",
   "icons": [
     {
       "src": "/http://127.0.0.1:5500/Index.html/web-app-manifest-192x192.png",
